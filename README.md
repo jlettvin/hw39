@@ -1,7 +1,18 @@
 Hello World! assembler
 ======================
 # hw39
-hello world assembler in 39x39
+hello world assembler in 39x39blocks.
+
+Once you have cloned this repository,
+build and run the executables, check
+their output, and review file sizes.
+Then restore the file set to original.
+
+```
+MacBookPro$ make
+MacBookPro$ ls -al
+MacBookPro$ make clean
+```
 
 Specialized for Mac OS X only for now.
 
