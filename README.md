@@ -1,9 +1,9 @@
 Hello World! assembler
 ======================
 # hw39
-hello world assembler in 39x39blocks.
+hello world assembler in 39x39 blocks.
 
-Once you have cloned this repository,
+Once you have cloned this repository;
 build and run the executables, check
 their output, and review file sizes.
 Then restore the file set to original.
@@ -33,7 +33,7 @@ which then includes Makefile.
 Presence of exported variables serve
 as guards against incorrect operation.
 
-IMPLEMENTED:
-------------
-* make clean
-* make
+The repository has 3 ASM source files.
+They match logically line-by-line.
+Compare syntax. Not much is different.
+Deeper comparisons would expose more.
