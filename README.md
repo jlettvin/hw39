@@ -1,5 +1,5 @@
-Hello World! assembler
-======================
+Hello World! assembler comparisons
+==================================
 # hw39
 hello world assembler in 39x39 blocks.
 
@@ -25,8 +25,8 @@ simply needs \`uname\`.mk to exist and
 have contents appropriate to its needs.
 
 Makefile and \`uname\`.mk are related
-by export and/or include conditionally.
-An unfortunately tricky relationship.
+by export and/or conditional include;
+an unfortunately tricky relationship.
 
 make does recursive $(MAKE) -f {}.mk
 which then includes Makefile.
